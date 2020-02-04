@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">bp_broadcast</string>
     <string name="action_settings">Settings</string>
+
+    <string name="whyNeedPermissionPhone">APP需使用电话权限以保证账号登录安全性，不会拨打其他号码或终止通话。</string>
+    <string name="whyNeedPermissionStorage">APP需使用存储权限以存储账号及业务资源。</string>
+    <string name="openPermissionPath">请在设置-应用-本APP-权限中开启%1$s权限，以正常使用APP。</string>
 </resources>
