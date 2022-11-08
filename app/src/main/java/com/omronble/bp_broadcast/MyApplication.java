@@ -12,7 +12,6 @@ import static org.litepal.LitePal.initialize;
  * class desc XXX
  *
  * @author zxzhang
- * <p>e-mail : zxzhang@chinaums.com </p>
  * <p>date: 2020/1/31 </p>
  * @version 1.0
  */
