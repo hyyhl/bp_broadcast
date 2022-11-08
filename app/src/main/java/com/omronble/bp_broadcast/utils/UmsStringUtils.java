@@ -14,7 +14,6 @@ public class UmsStringUtils extends StringUtils {
 	/**
 	 * 比较两个字符串是否相等，允许传入null值
 	 * 
-	 * @author wxtang 2015-4-14上午11:39:15
 	 * @param s1
 	 * @param s2
 	 * @return
